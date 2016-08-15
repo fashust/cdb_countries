@@ -1,0 +1,658 @@
+{
+    "AF-CBR": {
+        "category": "AF",
+        "code": "AF-CBR",
+        "name": "Afghanistan Central Business Registry",
+        "name_en": "Afghanistan",
+        "name_ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
+        "url": "http://acbr.gov.af/"
+    },
+    "AF-MOE": {
+        "category": "AF",
+        "code": "AF-MOE",
+        "name": "Ministry of Economy",
+        "name_en": "Afghanistan",
+        "name_ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
+        "url": "http://moec.gov.af/en"
+    },
+    "AU-ABN": {
+        "category": "AU",
+        "code": "AU-ABN",
+        "name": "Australian Business Register",
+        "name_en": "Australia",
+        "name_ru": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+        "url": "http://abr.business.gov.au/"
+    },
+    "AU-ACNC": {
+        "category": "AU",
+        "code": "AU-ACNC",
+        "name": "Australian Charities and Not-for-profits Commission",
+        "name_en": "Australia",
+        "name_ru": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+        "url": "http://www.acnc.gov.au/ACNC/"
+    },
+    "BD-NAB": {
+        "category": "BD",
+        "code": "BD-NAB",
+        "name": "Bangladesh NGO Affairs Bureau",
+        "name_en": "Bangladesh",
+        "name_ru": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
+        "url": "http://114.129.9.31/welcome/ngo_profile"
+    },
+    "BE-BCE_KBO": {
+        "category": "BE",
+        "code": "BE-BCE_KBO",
+        "name": "Banque Carrefour des entreprises / Kruispuntbank van ondernemingen",
+        "name_en": "Belgium",
+        "name_ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+        "url": "economie.fgov.be/fr/entreprises/BCE"
+    },
+    "BE-GTCF": {
+        "category": "BE",
+        "code": "BE-GTCF",
+        "name": "Au Greffe du Tribunal de Commerce Francophone de Bruxelles",
+        "name_en": "Belgium",
+        "name_ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+        "url": "http://www.juridat.be/tribunal_commerce/bruxelles/index.htm"
+    },
+    "CA-CRA_ACR": {
+        "category": "CA",
+        "code": "CA-CRA_ACR",
+        "name": "Canadian Revenue Agency / Agence du revenu du Canada",
+        "name_en": "Canada",
+        "name_ru": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "url": "http://www.cra-arc.gc.ca/"
+    },
+    "CN-SAIC": {
+        "category": "CN",
+        "code": "CN-SAIC",
+        "name": "State Administration for Industry and Commerce (SAIC)",
+        "name_en": "China",
+        "name_ru": "\u041a\u0438\u0442\u0430\u0439",
+        "url": "http://gsxt.saic.gov.cn/"
+    },
+    "CO-CCB": {
+        "category": "CO",
+        "code": "CO-CCB",
+        "name": "Bogota Chamber of Commerce",
+        "name_en": "Colombia",
+        "name_ru": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+        "url": "http://www.ccb.org.co/"
+    },
+    "CZ-ICO": {
+        "category": "CZ",
+        "code": "CZ-ICO",
+        "name": "Access to Registers of Economic Subjects / Entities (ARES)",
+        "name_en": "Czech Republic",
+        "name_ru": "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "url": "http://wwwinfo.mfcr.cz/ares/ares_es.html.en"
+    },
+    "DK-CVR": {
+        "category": "DK",
+        "code": "DK-CVR",
+        "name": "Danish Central Business Register",
+        "name_en": "Denmark",
+        "name_ru": "\u0414\u0430\u043d\u0438\u044f",
+        "url": "https://datacvr.virk.dk/data/"
+    },
+    "EE-RIK": {
+        "category": "EE",
+        "code": "EE-RIK",
+        "name": "Centre of Registers and Information Systems (RIK)",
+        "name_en": "Estonia",
+        "name_ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "url": "http://www.rik.ee/en/e-business-register"
+    },
+    "ES-DIR3": {
+        "category": "ES",
+        "code": "ES-DIR3",
+        "name": "Common Directory of Organizational Units and Offices - DIR3",
+        "name_en": "Spain",
+        "name_ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+        "url": "http://administracionelectronica.gob.es/ctt/dir3/descargas"
+    },
+    "ET-MFA": {
+        "category": "ET",
+        "code": "ET-MFA",
+        "name": "Ministry of Foreign Affairs",
+        "name_en": "Ethiopia",
+        "name_ru": "\u042d\u0444\u0438\u043e\u043f\u0438\u044f",
+        "url": "http://www.mfa.gov.et/"
+    },
+    "FI-PRO": {
+        "category": "FI",
+        "code": "FI-PRO",
+        "name": "Finnish Patent and Registration office",
+        "name_en": "Finland",
+        "name_ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+        "url": "http://www.prh.fi/en/index.html"
+    },
+    "FR-INSEE": {
+        "category": "FR",
+        "code": "FR-INSEE",
+        "name": "The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques",
+        "name_en": "France",
+        "name_ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+        "url": "http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm"
+    },
+    "FR-RCS": {
+        "category": "FR",
+        "code": "FR-RCS",
+        "name": "Registre de Commerce et des Societies /Trade and Companies Register - Commercial Court Registry",
+        "name_en": "France",
+        "name_ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+        "url": "http://www.infogreffe.fr"
+    },
+    "GB-CHC": {
+        "category": "GB",
+        "code": "GB-CHC",
+        "name": "Charity Commission",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://www.charity-commission.gov.uk/"
+    },
+    "GB-COH": {
+        "category": "GB",
+        "code": "GB-COH",
+        "name": "Companies House",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://www.companieshouse.gov.uk/"
+    },
+    "GB-EDU": {
+        "category": "GB",
+        "code": "GB-EDU",
+        "name": "Edubase, by the Department of Education",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://www.education.gov.uk/edubase/home.xhtml"
+    },
+    "GB-GOV": {
+        "category": "GB",
+        "code": "GB-GOV",
+        "name": "UK Government Departments Reference Numbers",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies"
+    },
+    "GB-GOVUK": {
+        "category": "GB",
+        "code": "GB-GOVUK",
+        "name": "UK Government Departments, Agencies & Public Bodies",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "https://www.gov.uk/government/organisations"
+    },
+    "GB-NIC": {
+        "category": "GB",
+        "code": "GB-NIC",
+        "name": "The Charity Commission for Northern Ireland",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://www.charitycommissionni.org.uk/"
+    },
+    "GB-REV": {
+        "category": "GB",
+        "code": "GB-REV",
+        "name": "HM Revenue and Customs",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://www.hmrc.gov.uk/"
+    },
+    "GB-SC": {
+        "category": "GB",
+        "code": "GB-SC",
+        "name": "Scottish Charity Register",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "http://www.oscr.org.uk/"
+    },
+    "GB-UKPRN": {
+        "category": "GB",
+        "code": "GB-UKPRN",
+        "name": "UK Register of Learning Providers",
+        "name_en": "United Kingdom",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+        "url": "https://www.ukrlp.co.uk/"
+    },
+    "GG-RCE": {
+        "category": "GG",
+        "code": "GG-RCE",
+        "name": "The Guernsey Registry at the Department of Commerce and Employment",
+        "name_en": "Guernsey",
+        "name_ru": "\u0413\u0435\u0440\u043d\u0441\u0438",
+        "url": "http://www.guernseyregistry.com/charities"
+    },
+    "GH-DSW": {
+        "category": "GH",
+        "code": "GH-DSW",
+        "name": "Department of Social Welfare",
+        "name_en": "Ghana",
+        "name_ru": "\u0413\u0430\u043d\u0430",
+        "url": null
+    },
+    "ID-KDN": {
+        "category": "ID",
+        "code": "ID-KDN",
+        "name": "Ministry Home affairs/ Kementerian Dalam Negeri",
+        "name_en": "Indonesia",
+        "name_ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "url": "http://www.kemendagri.go.id/media/filemanager/2011/02/22/d/a/daf.ormas___lsm_2010.pdf"
+    },
+    "ID-KHH": {
+        "category": "ID",
+        "code": "ID-KHH",
+        "name": "Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
+        "name_en": "Indonesia",
+        "name_ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "url": "http://www.kemenkumham.go.id/"
+    },
+    "ID-KLN": {
+        "category": "ID",
+        "code": "ID-KLN",
+        "name": "Ministry of Foreign affairs/ Kementerian Luar Negeri",
+        "name_en": "Indonesia",
+        "name_ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "url": "http://www.kemlu.go.id/"
+    },
+    "ID-PRO": {
+        "category": "ID",
+        "code": "ID-PRO",
+        "name": "NGOs registered at Provinicial Level",
+        "name_en": "Indonesia",
+        "name_ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "url": "http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru"
+    },
+    "IE-CHY": {
+        "category": "IE",
+        "code": "IE-CHY",
+        "name": "Irish Register of Charities",
+        "name_en": "Ireland",
+        "name_ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "url": null
+    },
+    "IE-CRO": {
+        "category": "IE",
+        "code": "IE-CRO",
+        "name": "Irish CompaniesRegistration Office",
+        "name_en": "Ireland",
+        "name_ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "url": "http://www.cro.ie/"
+    },
+    "IM-CR": {
+        "category": "IM",
+        "code": "IM-CR",
+        "name": "Isle of Man Companies Registry",
+        "name_en": "Isle of Man",
+        "name_ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+        "url": "http://www.gov.im/ded/companies/companiesregistry.xml?menuid=21615"
+    },
+    "IM-GR": {
+        "category": "IM",
+        "code": "IM-GR",
+        "name": "Isle of Man Index of Registered Charities",
+        "name_en": "Isle of Man",
+        "name_ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+        "url": "http://www.gov.im/registries/courts/charities/"
+    },
+    "IN-MCA": {
+        "category": "IN",
+        "code": "IN-MCA",
+        "name": "Government of India, Minstry of Corporate Affairs",
+        "name_en": "India",
+        "name_ru": "\u0418\u043d\u0434\u0438\u044f",
+        "url": "http://www.mca.gov.in/"
+    },
+    "JE-CR": {
+        "category": "JE",
+        "code": "JE-CR",
+        "name": "Jersey Companies Registry",
+        "name_en": "Jersey",
+        "name_ru": "\u0414\u0436\u0435\u0440\u0441\u0438",
+        "url": "http://www.jerseyfsc.org/registry/"
+    },
+    "JE-OAC": {
+        "category": "JE",
+        "code": "JE-OAC",
+        "name": "Jersey Overseas Aid Commission",
+        "name_en": "Jersey",
+        "name_ru": "\u0414\u0436\u0435\u0440\u0441\u0438",
+        "url": "http://www.jerseyoverseasaid.org.je/"
+    },
+    "KE-NCB": {
+        "category": "KE",
+        "code": "KE-NCB",
+        "name": "NGO's Coordination Board",
+        "name_en": "Kenya",
+        "name_ru": "\u041a\u0435\u043d\u0438\u044f",
+        "url": "http://www.ngobureau.or.ke/"
+    },
+    "KE-RCO": {
+        "category": "KE",
+        "code": "KE-RCO",
+        "name": "Registar of Companies",
+        "name_en": "Kenya",
+        "name_ru": "\u041a\u0435\u043d\u0438\u044f",
+        "url": "http://www.attorney-general.go.ke/"
+    },
+    "KE-RSO": {
+        "category": "KE",
+        "code": "KE-RSO",
+        "name": "Registrar of Societies",
+        "name_en": "Kenya",
+        "name_ru": "\u041a\u0435\u043d\u0438\u044f",
+        "url": "http://www.attorney-general.go.ke/"
+    },
+    "LS-LCN": {
+        "category": "LS",
+        "code": "LS-LCN",
+        "name": "Lesotho Council of Non Governmental Organisations",
+        "name_en": "Lesotho",
+        "name_ru": "\u041b\u0435\u0441\u043e\u0442\u043e",
+        "url": "http://www.lcn.org.ls/"
+    },
+    "LV-RE": {
+        "category": "LV",
+        "code": "LV-RE",
+        "name": "Register of Enterprises of the Republic of Latvia",
+        "name_en": "Latvia",
+        "name_ru": "\u041b\u0430\u0442\u0432\u0438\u044f",
+        "url": "http://www.ur.gov.lv/"
+    },
+    "MM-MHA": {
+        "category": "MM",
+        "code": "MM-MHA",
+        "name": "Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations",
+        "name_en": "Burma",
+        "name_ru": "\u041c\u044c\u044f\u043d\u043c\u0430",
+        "url": "No url for the ministry (as at 2/10/2013)"
+    },
+    "MW-CNM": {
+        "category": "MW",
+        "code": "MW-CNM",
+        "name": "The Council for Non Governmental Organisations in Malawi",
+        "name_en": "Malawi",
+        "name_ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "url": "http://www.congoma.mw/index.html"
+    },
+    "MW-MRA": {
+        "category": "MW",
+        "code": "MW-MRA",
+        "name": "Malawi Revenue Authority",
+        "name_en": "Malawi",
+        "name_ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "url": "http://www.mra.mw/"
+    },
+    "MW-NBM": {
+        "category": "MW",
+        "code": "MW-NBM",
+        "name": "NGO Board of Malawi",
+        "name_en": "Malawi",
+        "name_ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "url": "http://ngoboardmalawi.mw/directory.php"
+    },
+    "MW-RG": {
+        "category": "MW",
+        "code": "MW-RG",
+        "name": "Registrar General, Department of Justice",
+        "name_en": "Malawi",
+        "name_ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "url": null
+    },
+    "MZ-MOJ": {
+        "category": "MZ",
+        "code": "MZ-MOJ",
+        "name": "Mozambique Ministry of Justice",
+        "name_en": "Mozambique",
+        "name_ru": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+        "url": null
+    },
+    "NG-CAC": {
+        "category": "NG",
+        "code": "NG-CAC",
+        "name": "Nigerian Corporate Affairs Commission",
+        "name_en": "Nigeria",
+        "name_ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+        "url": "http://new.cac.gov.ng/home/"
+    },
+    "NL-KVK": {
+        "category": "NL",
+        "code": "NL-KVK",
+        "name": "Kamer van Koophandel",
+        "name_en": "Netherlands",
+        "name_ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+        "url": "http://www.kvk.nl/"
+    },
+    "NO-BRC": {
+        "category": "NO",
+        "code": "NO-BRC",
+        "name": "Br\u00f8nn\u00f8ysundregistrene",
+        "name_en": "Norway",
+        "name_ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "url": "http://www.brreg.no/"
+    },
+    "NP-CRO": {
+        "category": "NP",
+        "code": "NP-CRO",
+        "name": "Company Registrar Office",
+        "name_en": "Nepal",
+        "name_ru": "\u041d\u0435\u043f\u0430\u043b",
+        "url": "http://www.cro.gov.np/"
+    },
+    "NP-SWC": {
+        "category": "NP",
+        "code": "NP-SWC",
+        "name": "NGO registration",
+        "name_en": "Nepal",
+        "name_ru": "\u041d\u0435\u043f\u0430\u043b",
+        "url": "http://www.swc.org.np/"
+    },
+    "PK-PCP": {
+        "category": "PK",
+        "code": "PK-PCP",
+        "name": "Pakistan Centre for Philanthropy",
+        "name_en": "Pakistan",
+        "name_ru": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+        "url": "https://drive.google.com/file/d/0B67B7u-xqLazZFhHTkUtUVVRWXc/view"
+    },
+    "PK-VSWA": {
+        "category": "PK",
+        "code": "PK-VSWA",
+        "name": "Pakistan Voluntary Social Welfare Agency",
+        "name_en": "Pakistan",
+        "name_ru": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+        "url": "No Website available"
+    },
+    "PL-KRS": {
+        "category": "PL",
+        "code": "PL-KRS",
+        "name": "The National Court Register",
+        "name_en": "Poland",
+        "name_ru": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu"
+    },
+    "PL-NIP": {
+        "category": "PL",
+        "code": "PL-NIP",
+        "name": "Tax Identification Number",
+        "name_en": "Poland",
+        "name_ru": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu, https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx"
+    },
+    "PL-REGON": {
+        "category": "PL",
+        "code": "PL-REGON",
+        "name": "National Official Business Register",
+        "name_en": "Poland",
+        "name_ru": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "url": "http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/"
+    },
+    "RS-APR": {
+        "category": "RS",
+        "code": "RS-APR",
+        "name": "Serbian Business Registrations Agency (APR)",
+        "name_en": "Serbia",
+        "name_ru": "\u0421\u0435\u0440\u0431\u0438\u044f",
+        "url": "http://www.apr.gov.rs/eng/Home.aspx"
+    },
+    "SE-BLV": {
+        "category": "SE",
+        "code": "SE-BLV",
+        "name": "Bolagsverket / Swedish Companies Registration Office",
+        "name_en": "Sweden",
+        "name_ru": "\u0428\u0432\u0435\u0446\u0438\u044f",
+        "url": "http://www.bolagsverket.se/"
+    },
+    "SG-ACRA": {
+        "category": "SG",
+        "code": "SG-ACRA",
+        "name": "Accounting and Corporate Regulatory Authority (ACRA)",
+        "name_en": "Singapore",
+        "name_ru": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
+        "url": "http://www.acra.gov.sg/"
+    },
+    "SK-ZRSR": {
+        "category": "SK",
+        "code": "SK-ZRSR",
+        "name": "Slovakia Ministry Of Interior Trade Register",
+        "name_en": "Slovakia",
+        "name_ru": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f",
+        "url": "http://www.zrsr.sk/default.aspx?LANG=en"
+    },
+    "TZ-BRLA": {
+        "category": "TZ",
+        "code": "TZ-BRLA",
+        "name": "Tanzania Business Registrations and Licensing Agency",
+        "name_en": "Tanzania, United Republic Of",
+        "name_ru": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f, \u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "url": "http://www.brela.go.tz/"
+    },
+    "UA-EDR": {
+        "category": "UA",
+        "code": "UA-EDR",
+        "name": "United State Register, Ukraine",
+        "name_en": "Ukraine",
+        "name_ru": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+        "url": "http://irc.gov.ua/ua/Poshuk-v-YeDR.html"
+    },
+    "UG-NGB": {
+        "category": "UG",
+        "code": "UG-NGB",
+        "name": "NGO Board, Ministry of Internal Affairs",
+        "name_en": "Uganda",
+        "name_ru": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "url": "http://www.mia.go.ug/?page_id=62"
+    },
+    "UG-RSB": {
+        "category": "UG",
+        "code": "UG-RSB",
+        "name": "Registration Services Bureau",
+        "name_en": "Uganda",
+        "name_ru": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "url": "http://www.ursb.go.ug/"
+    },
+    "US-DOS": {
+        "category": "US",
+        "code": "US-DOS",
+        "name": "Corporation registration is the responsibility of each state (see link)",
+        "name_en": "United States",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b",
+        "url": "http://www.companieshouse.gov.uk/links/usaLink.shtml"
+    },
+    "US-EIN": {
+        "category": "US",
+        "code": "US-EIN",
+        "name": "Internal Revenue Service / Employer Identification Number",
+        "name_en": "United States",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b",
+        "url": "http://www.irs.gov/businesses/small/article/0,,id=98350,00.html"
+    },
+    "US-USAGOV": {
+        "category": "US",
+        "code": "US-USAGOV",
+        "name": "Index of U.S. Government Departments and Agencies",
+        "name_en": "United States",
+        "name_ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b",
+        "url": "http://www.usa.gov/directory/federal/index.shtml"
+    },
+    "XI-IATI": {
+        "category": "XI",
+        "code": "XI-IATI",
+        "name": "International Aid Transparency Initiative Organisation Identifier",
+        "url": "http://iatistandard.org/codelists/IATIOrganisationIdentifier/"
+    },
+    "XI-PB": {
+        "category": "XI",
+        "code": "XI-PB",
+        "name": "Public Bodies",
+        "url": "http://publicbodies.org/"
+    },
+    "XM-DAC": {
+        "category": "XM",
+        "code": "XM-DAC",
+        "name": "OECD Development Assistance Committee",
+        "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+    },
+    "XM-OCHA": {
+        "category": "XM",
+        "code": "XM-OCHA",
+        "name": "United Nations Office for the Coordination of Humanitarian Affairs",
+        "url": "http://www.unocha.org"
+    },
+    "ZA-CIP": {
+        "category": "ZA",
+        "code": "ZA-CIP",
+        "name": "Companies and Intellectual Property Commission (CIPC)",
+        "name_en": "South Africa",
+        "name_ru": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
+        "url": "http://www.cipro.gov.za/"
+    },
+    "ZA-NPO": {
+        "category": "ZA",
+        "code": "ZA-NPO",
+        "name": "Association for Non-Profit Organisations",
+        "name_en": "South Africa",
+        "name_ru": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
+        "url": "http://www.npo.gov.za/"
+    },
+    "ZA-PBO": {
+        "category": "ZA",
+        "code": "ZA-PBO",
+        "name": "SA Revenue Service Tax Exemption Unit / Public Benefit Organisations",
+        "name_en": "South Africa",
+        "name_ru": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
+        "url": "http://www.sars.gov.za/home.asp?pid=170"
+    },
+    "ZM-NRB": {
+        "category": "ZM",
+        "code": "ZM-NRB",
+        "name": "Non Governmental Organisation Registration Board",
+        "name_en": "Zambia",
+        "name_ru": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "url": null
+    },
+    "ZM-PCR": {
+        "category": "ZM",
+        "code": "ZM-PCR",
+        "name": "Patents and Companies Registration Agency",
+        "name_en": "Zambia",
+        "name_ru": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "url": "http://www.pacra.org.zm/"
+    },
+    "ZW-PVO": {
+        "category": "ZW",
+        "code": "ZW-PVO",
+        "name": "Private Voluntary Organisations Council",
+        "name_en": "Zimbabwe",
+        "name_ru": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+        "url": null
+    },
+    "ZW-ROD": {
+        "category": "ZW",
+        "code": "ZW-ROD",
+        "name": "Registrar of Deeds",
+        "name_en": "Zimbabwe",
+        "name_ru": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+        "url": null
+    }
+}
