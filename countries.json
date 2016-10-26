@@ -919,5 +919,14 @@
         "name_ru": "Зимбабве",
         "name_uk": "Зімбабве",
         "url": null
+    },
+    "CH-ZEFIX": {
+        "category": "CH",
+        "code": "CH-ZEFIX",
+        "name": "Swiss Commercial Register (via Zefix)",
+        "name_en": "Switzerland",
+        "name_ru": "Швейцария",
+        "name_uk": "Швейцарія",
+        "url": "http://www.zefix.ch/"
     }
 }
