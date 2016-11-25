@@ -964,5 +964,50 @@
         "name_ru": "Россия",
         "name_uk": "Росія",
         "url": "https://russianpartner.biz/"
+    },
+    "LT-RC": {
+        "category": "LT",
+        "code": "LT-RC",
+        "name": "Information Platform of Legal Entities",
+        "name_en": "Lithuania",
+        "name_ru": "Литва",
+        "name_uk": "Литва",
+        "url": "http://www.registrucentras.lt/jar/index_en.php"
+    },
+    "LT-PVM": {
+        "category": "LT",
+        "code": "LT-PVM",
+        "name": "Information Platform of Legal Entities",
+        "name_en": "Lithuania",
+        "name_ru": "Литва",
+        "name_uk": "Литва",
+        "url": "http://www.registrucentras.lt/jar/index_en.php"
+    },
+    "AT-FN": {
+        "category": "AT",
+        "code": "AT-FN",
+        "name": "Firmenbuch",
+        "name_en": "Austria",
+        "name_ru": "Австрия",
+        "name_uk": "Австрія",
+        "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html"
+    },
+    "AT-UID": {
+        "category": "AT",
+        "code": "AT-UID",
+        "name": "VAT ID",
+        "name_en": "Austria",
+        "name_ru": "Австрия",
+        "name_uk": "Австрія",
+        "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html"
+    },
+    "HU-VAT": {
+        "category": "HU",
+        "code": "HU-VAT",
+        "name": "",
+        "name_en": "Hungary",
+        "name_ru": "Венгрия",
+        "name_uk": "Угорщина",
+        "url": ""
     }
 }
